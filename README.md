@@ -1,4 +1,4 @@
-# Embedded-systems-project
+# Embedded-systems-design-project 
 Raspberry Pi based floodwater management system
 
 In big cities like Mumbai of India, a lot of water floods during the rainy season. The government officials have to come in person where the sewers are and have to manually open the sewers. Also, there is a chance of someone falling in the sewers because the sewers cannot be seen by a naked eye when they are flooded with water. To overcome this difficulty, we have designed a Raspberry Pi model 4 B based floodwater management system, which automatically opens the sewers once a particular water level is reached. Here when a water level increases beyond a particular limit, a Genuine SP DC water level sensor detects it and opens the wireless automatic sewer. As a result, the floodwater gets drained. When the water is flooded in a particular area where the manhole is and if a person comes in the vicinity of it, an ultrasonic proximity HC SR-04 sensor will detect the movement of a person. After that, an email is sent wirelessly as an alert over the WI-FI. In this way, the floodwater management is achieved.
